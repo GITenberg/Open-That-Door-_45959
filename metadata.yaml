@@ -1,0 +1,30 @@
+_repo: Open-That-Door-_45959
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45959-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Ingersoll, R. Sturgis (Robert Sturgis)
+    alias: Ingersoll, Robert Sturgis
+    birthdate: 1891
+    gutenberg_agent_id: '43544'
+    url: http://www.gutenberg.org/2009/agents/43544
+description: ''
+gutenberg_issued: '2014-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45959'
+  lccn: '16019986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books and reading'
+- !lcc 'Z'
+tableOfContents: Walled in -- An open door -- Reading fiction with an eye on life
+  -- History and your vote -- Clio's vintage -- The poet and the reader -- The children
+  of Pan -- Men behind books -- Keeping up with life.
+title: Open That Door!
+url: http://www.gutenberg.org/ebooks/45959
