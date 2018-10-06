@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Books and reading'
 - !lcc 'Z'
+- GITenberg
 tableOfContents: Walled in -- An open door -- Reading fiction with an eye on life
   -- History and your vote -- Clio's vintage -- The poet and the reader -- The children
   of Pan -- Men behind books -- Keeping up with life.
